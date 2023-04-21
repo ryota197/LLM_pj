@@ -1,0 +1,6 @@
+.env
+__pycache__
+python=3.9.7
+venv
+test.ipynb
+data
